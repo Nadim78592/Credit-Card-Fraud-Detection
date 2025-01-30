@@ -12,9 +12,6 @@ Preprocess and normalize data.
 # How to Run the Project
 Open the Jupyter notebook fraud_detection.ipynb and follow the steps to preprocess data, train the model, and evaluate its performance.
 
-# How to Run the Project
-Open the Jupyter notebook fraud_detection.ipynb and follow the steps to preprocess data, train the model, and evaluate its performance.
-
 # Highlights
 Data Preparation: Clean and normalize transaction data.
 Imbalance Handling: Use oversampling or undersampling to balance fraud vs. genuine cases.
